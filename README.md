@@ -45,5 +45,6 @@ After installation:
 
 ## Notes
 
+- I am NOT the creator of *Stand*. The creator is `rthm` (from AKL Discord Server).
 - Created using Microsoft Keyboard Layout Creator (MSKLC)
 - Works on Windows 10 and Windows 11
