@@ -12,14 +12,14 @@ If you are interested in the layout, you can follow the installation guide below
 ### Default layout
 ![Layout](images/Layout01.jpg)
 
+### Shift layer
+![Shift Layout](images/Layout01Shft.jpg)
+
 ### AltGr layer
 ![AltGr Layout](images/Layout01AltGr.jpg)
 
-### Shift layer
-![Shift Layout](images/Layout01Sft.jpg)
-
 ### Shift + AltGr layer
-![Shift AltGr Layout](images/Layout01SftAltGr.jpg)
+![Shift AltGr Layout](images/Layout01ShftAltGr.jpg)
 
 
 ## Installation Guide (Windows onlys)
