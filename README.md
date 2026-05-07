@@ -3,7 +3,7 @@
 This repository contains a custom keyboard layout created with **Microsoft Keyboard Layout Creator (MSKLC)**.
 
 The default layer layout is called *Stand*. It's a layout that it similar to the famous *Sturdy*, with high rolls, low scissors, low redirections (for a rolly layout).
-In the AltGr layer, I added my own modifications to account for typing french. By the way, the layout is surprisingly good for French, but only if you don't mind the `eu` Same Finger Bigram (that you should alt-finger).
+In the AltGr layer, I added my own modifications to account for typing french and code. By the way, the layout is surprisingly good for French, but only if you don't mind the `eu` Same Finger Bigram (that you should alt-finger).
 
 If you are interested in the layout, you can follow the installation guide below.
 
