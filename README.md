@@ -28,8 +28,7 @@ If you are interested in the layout, you can follow the installation guide below
 2. Open the folder
 3. Right-click `setup.exe`
 4. Click **Run as administrator**
-5. Follow the installation steps
-6. Restart your computer
+5. Restart your computer
 
 
 ## How to Enable the Keyboard
@@ -39,7 +38,7 @@ After installation:
 1. Go to **Settings → Time & Language**
 2. Select your language
 3. Click **Language options**
-4. Under **Keyboards**, add the custom layout
+4. Under **Keyboards**, add the custom layout (name is "stnd")
 5. Switch using **Win + Space**
 
 
